@@ -1,3 +1,4 @@
 line 1 in file commit
 line 2 in b1 file
+line 3 b1 
 
